@@ -43,3 +43,8 @@ obj/Debug/net5.0/staticwebassets/.net-blog.StaticWebAssets.Manifest.cache
 obj/Debug/net5.0/staticwebassets/.net-blog.StaticWebAssets.xml
 bin/Debug/net5.0/.net-blog.dll
 bin/Debug/net5.0/.net-blog.deps.json
+obj/.net-blog.csproj.nuget.g.props
+obj/project.assets.json
+obj/project.nuget.cache
+obj/.net-blog.csproj.nuget.dgspec.json
+.vscode/tasks.json
